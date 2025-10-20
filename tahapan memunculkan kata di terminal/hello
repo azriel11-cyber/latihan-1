@@ -1,0 +1,5 @@
+## deskripsi latihan 1
+  - buka terminal/cmd
+  - ketik phython(jika menggunakan windows) atau phython3 (jika menggunakan linux)
+  - setelah itu ketik print("hello") lalu tekan ENTER pada keyboard
+  - maka terminal akan menampilkan teks "hello"
